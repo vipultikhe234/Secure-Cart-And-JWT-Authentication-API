@@ -68,8 +68,8 @@ Ensure you have the exact backend tools to test the endpoints:
 ### 2. Clone the Repository
 Clone the repository to an isolated folder:
 ```bash
-git clone https://github.com/Phantasm-Solutions-Ltd-Pvt/php-f2f-for-candidate.git
-cd php-f2f-for-candidate
+git clone https://github.com/vipultikhe234/Secure-Cart-And-JWT-Authentication-API.git
+cd Secure-Cart-And-JWT-Authentication-API
 ```
 
 ### 3. Install Dependencies
